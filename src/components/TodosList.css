@@ -1,0 +1,25 @@
+main {
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  max-width: 500px;
+  margin: auto;
+}
+
+h1 {
+  padding-bottom: 15px;
+}
+
+table {
+  margin-top: 20px;
+}
+
+.cross {
+    text-decoration: line-through;
+    font-style: italic;
+  }
+
+  
